@@ -1,7 +1,3 @@
-duda123 senha
-cpu 000
-jogador 123
-admin admin
-eduarda Duds 0
-Paulo Regis 0
-Paulo_Regis uvinha 0
+duda123 senha123 6
+joao123 456789 2
+Vick Vick123 0
